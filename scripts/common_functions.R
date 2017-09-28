@@ -1,3 +1,5 @@
+# NOTE: Support for clustering currently disabled in some chunks of code
+
 ##### EXTRACT FUNCTIONS ########
 
 
